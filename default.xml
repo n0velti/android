@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="eelo"
-           fetch=".." 
+           fetch="ssh://git@gitlab.eelo.io:2222/eelo"
            revision="master"/>
 
   <remote  name="github"

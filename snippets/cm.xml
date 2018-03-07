@@ -120,4 +120,5 @@
   <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="master" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
   <project path="eelo/fork-project" name="fork-project" remote="eelo"/>
+  <project path="eelo/build" name="build" remote="eelo"/>
 </manifest>

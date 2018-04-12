@@ -114,6 +114,10 @@
   <project path="microg/GmsCore" name="microg/android_packages_apps_GmsCore" remote="github_microg" revision="master" />
   <project path="microg/UnifiedNlp" name="microg/android_packages_apps_UnifiedNlp" remote="github_microg" revision="master" />
 
+  <!-- Default apps -->
+  <project path="packages/apps/Signal" name="android_packages_apps_Signal" remote="eelo" />
+  <project path="packages/apps/Telegram" name="android_packages_apps_Telegram" remote="eelo" />
+
   <!-- Infrastructure -->
   <project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />
   <project path="lineage/crowdin" name="LineageOS/cm_crowdin" groups="infra" revision="master" />

@@ -106,7 +106,7 @@
   <project path="vendor/qcom/opensource/time-services" name="LineageOS/android_vendor_qcom_opensource_time-services" />
 
   <!-- Default apps -->
-  <project path="prebuilts/prebuiltapks" name="eelo/android_prebuilts_prebuiltapks" remote="eelo" revision="eelo" />
+  <project path="prebuilts/prebuiltapks" name="eelo/android_prebuilts_prebuiltapks" remote="eelo" revision="master" />
 
   <!-- Infrastructure -->
   <project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />

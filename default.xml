@@ -3,7 +3,7 @@
 
   <remote  name="eelo"
            fetch="ssh://git@gitlab.eelo.io:2222"
-           revision="master"/>
+           revision="eelo-0.1"/>
 
   <remote  name="github"
            fetch="https://github.com"

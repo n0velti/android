@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- LineageOS additions -->
-  <project path="android" name="eelo/android" remote="eelo" />
+  <project path="android" name="e/os/android" remote="eelo" />
   <project path="external/bash" name="LineageOS/android_external_bash" />
   <project path="external/cmsdk-api-coverage" name="LineageOS/android_external_cmsdk-api-coverage" />
   <project path="external/exfat" name="LineageOS/android_external_exfat" />
@@ -30,25 +30,25 @@
   <project path="hardware/ti/wlan" name="LineageOS/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="LineageOS/android_hardware_ti_wpan" />
   <project path="packages/apps/AppDrawer" name="LineageOS/android_packages_apps_AppDrawer" />
-  <project path="packages/apps/CMParts" name="eelo/android_packages_apps_CMParts" remote="eelo" />
-  <project path="packages/apps/Eleven" name="eelo/android_packages_apps_Eleven" remote="eelo"/>
+  <project path="packages/apps/CMParts" name="e/os/android_packages_apps_CMParts" remote="eelo" />
+  <project path="packages/apps/Eleven" name="e/os/android_packages_apps_Eleven" remote="eelo"/>
   <project path="packages/apps/Exchange" name="LineageOS/android_packages_apps_Exchange" />
   <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" />
-  <project path="packages/apps/Jelly" name="eelo/android_packages_apps_Jelly" remote="eelo" />
+  <project path="packages/apps/Jelly" name="e/os/android_packages_apps_Jelly" remote="eelo" />
   <project path="packages/apps/LineageCustomizer" name="LineageOS/android_packages_apps_LineageCustomizer" />
   <project path="packages/apps/LockClock" name="LineageOS/android_packages_apps_LockClock" />
   <project path="packages/apps/Profiles" name="LineageOS/android_packages_apps_Profiles" />
-  <project path="packages/apps/Recorder" name="eelo/android_packages_apps_Recorder" remote="eelo" />
-  <project path="packages/apps/SetupWizard" name="eelo/android_packages_apps_SetupWizard" remote="eelo" />
-  <project path="packages/apps/Updater" name="eelo/android_packages_apps_Updater" remote="eelo"/>
+  <project path="packages/apps/Recorder" name="e/os/android_packages_apps_Recorder" remote="eelo" />
+  <project path="packages/apps/SetupWizard" name="e/os/android_packages_apps_SetupWizard" remote="eelo" />
+  <project path="packages/apps/Updater" name="e/os/android_packages_apps_Updater" remote="eelo"/>
   <project path="packages/providers/DataUsageProvider" name="LineageOS/android_packages_providers_DataUsageProvider" />
   <project path="packages/providers/WeatherProvider" name="LineageOS/android_packages_providers_WeatherProvider" />
   <project path="packages/services/CMAudioService" name="LineageOS/android_packages_services_CMAudioService" />
   <project path="packages/services/WeatherService" name="LineageOS/android_packages_services_WeatherService" />
   <project path="prebuilts/cmsdk" name="LineageOS/android_prebuilts_cmsdk" clone-depth="1" />
   <project path="system/extras/su" name="LineageOS/android_system_extras_su" />
-  <project path="vendor/cm" name="eelo/android_vendor_cm" remote="eelo" />
-  <project path="vendor/cmsdk" name="eelo/cm_platform_sdk" remote="eelo" />
+  <project path="vendor/cm" name="e/os/android_vendor_cm" remote="eelo" />
+  <project path="vendor/cmsdk" name="e/os/cm_platform_sdk" remote="eelo" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="LineageOS/android_packages_apps_OpenWeatherMapProvider" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="LineageOS/android_packages_apps_WundergroundWeatherProvider" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider" name="LineageOS/android_packages_apps_YahooWeatherProvider" />
@@ -104,7 +104,7 @@
   <project path="vendor/qcom/opensource/time-services" name="LineageOS/android_vendor_qcom_opensource_time-services" />
 
   <!-- Default apps -->
-  <project path="prebuilts/prebuiltapks" name="eelo/android_prebuilts_prebuiltapks" remote="eelo" revision="master" />
+  <project path="prebuilts/prebuiltapks" name="e/os/android_prebuilts_prebuiltapks" remote="eelo" revision="master" />
 
   <!-- Infrastructure -->
   <project path="lineage/ansible" name="LineageOS/ansible" groups="infra" revision="master" />

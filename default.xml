@@ -3,7 +3,7 @@
 
   <remote  name="e"
            fetch="../../.."
-           revision="v1-oreo"/>
+           revision="v1-pie"/>
 
   <remote  name="github"
            fetch="https://github.com"

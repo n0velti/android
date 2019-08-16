@@ -20,6 +20,10 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-9.0.0_r46" />
 
+  <remote  name="e-priv"
+           fetch="ssh://git@gitlab.e.foundation:2222"
+           revision="v1-pie"/>
+
   <default revision="refs/heads/lineage-16.0"
            remote="github"
            sync-c="true"

@@ -17,6 +17,10 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-7.1.2_r36" />
 
+  <remote  name="e-priv"
+           fetch="ssh://git@gitlab.e.foundation:2222"
+           revision="v1-nougat"/>
+
   <default revision="refs/heads/cm-14.1"
            remote="github"
            sync-c="true"

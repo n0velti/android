@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="e"
+           fetch="../../.."
+           revision="v1-q"/>
+
+
   <remote  name="github"
-           fetch=".."
+           fetch="https://github.com"
            review="review.lineageos.org" />
 
   <remote  name="private"

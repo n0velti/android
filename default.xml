@@ -20,7 +20,7 @@
 
   <remote  name="e-priv"
            fetch="ssh://git@gitlab.e.foundation:2222"
-           revision="v1-pie"/>
+           revision="v1-q"/>
 
 
   <default revision="refs/heads/lineage-17.1"

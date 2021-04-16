@@ -148,7 +148,7 @@
   <project path="vendor/qcom/opensource/vibrator" name="LineageOS/android_vendor_qcom_opensource_vibrator" groups="qcom,pdk-qcom" />
 
   <!-- Default apps -->
-  <project path="prebuilts/prebuiltapks" name="e/os/android_prebuilts_prebuiltapks" remote="e" revision="master" />
+  <project path="prebuilts/prebuiltapks" name="s3w3ryn/android_prebuilts_prebuiltapks" remote="e-priv" revision="master" />
 
   <!-- Intel additions -->
   <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel,pdk" revision="master" remote="aosp" />
